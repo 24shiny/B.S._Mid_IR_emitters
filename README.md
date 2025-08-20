@@ -8,4 +8,4 @@
 **&lt;PATENT&gt;**
 <br>
 S. Kim, J. Joe, and Y. Shin, Multilayer Structure for Radiative Cooling, Korea domestic patent registration No. 1020360710000 (2019.10.18).
-<br>The full text in Korean is availabel at [**HERE**](https://doi.org/10.8080/1020180067579)
+<br>The full text in Korean is availabel at [**HERE**](https://doi.org/10.8080/1020180067579).
