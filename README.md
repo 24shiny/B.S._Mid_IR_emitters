@@ -13,5 +13,8 @@ S. Kim, J. Joe, and Y. Shin, Multilayered Raiant Cooling Structure, Korea domest
 <br>The full text in Korean is also available at [**KIPRIS**](https://doi.org/10.8080/1020180067579).
 </div>
 
+<br>
+
+**&lt;POSTER FOR DISSERTATION&gt;**
 <br><br>
 ![Alt text](Poster_mid_IR_emitter_RC.png)
