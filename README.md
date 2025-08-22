@@ -12,3 +12,5 @@ Supervised by Prof. S. Kim at KHU 🙌
 S. Kim, J. Joe, and Y. Shin, Multilayered Raiant Cooling Structure, Korea domestic patent registration No. 1020360710000 (2019.10.18).
 <br>The full text in Korean is also available at [**KIPRIS**](https://doi.org/10.8080/1020180067579).
 </div>
+
+![Alt text](Poster_mid_IR_emitter_RC.png)
